@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suuze-linux
-- 👀 I’m interested in Linux, Security and Machine Learning
+- 👀 I’m interested in Linux, Information & Cyber Security and Machine Learning
 - 🌱 I’m currently learning pytorch
 - 💞️ I’m looking to collaborate on: N/A
 - 📫 How to reach me: N/A
